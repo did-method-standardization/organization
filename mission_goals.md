@@ -26,7 +26,7 @@ We aim to drive Decentralized Identifier adoption through standardization maturi
 
 To achieve these goals, we will pursue the following objectives:
 
-### DIF Working Group
+### DIF Working Group with Joint Participation
 
 A new “DID Method Standardization” working group (WG) at the [Decentralized Identity Foundation (DIF)](https://identity.foundation/) will perform the following activities in support of Goals 1 and 3.
 
