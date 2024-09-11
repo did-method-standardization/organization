@@ -48,7 +48,7 @@ Additionally, this DIF working group will offer a member sharing agreement, allo
 * [W3C Credentials Community Group](https://www.w3.org/community/credentials/)
 * [W3C Decentralized Identifier Working Group](https://www.w3.org/groups/wg/did/)
 * [Trust Over IP Foundation](https://trustoverip.org/)
-
+* [IOTA](https://www.iota.org/)
 
 ### Additional SDO Working Groups
 
